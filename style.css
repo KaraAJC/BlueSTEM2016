@@ -10,6 +10,10 @@ p {
   line-height: 2rem;
 }
 
+.more {
+  padding: 4em 0em;
+}
+
 .button-collapse {
   color: #26a69a;
 }
